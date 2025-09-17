@@ -35,19 +35,24 @@ The main benefits uncovered by combining the Wiki data with the API were the add
 ## UFC Global Market Expansion Strategy
 
 ## Key Insights:
-Brazil dominance: 5 fighters (17% of dataset) with multiple champions (Alex Pereira, Alexandre Pantoja, Charles Oliveira)
-Emerging markets: Georgia has 2 fighters including #1 P4P Ilia Topuria (17-0 undefeated)
-Underrepresented regions: Only 1 fighter each from Palestine, Armenia, UAE, France, Kyrgyzstan - potential growth markets
-Performance correlation: Non-US fighters hold 60% of championship positions in the dataset
-The data tells an exciting story — the UFC isn’t just an American powerhouse anymore, it’s truly global. Brazil continues its domination over the sport with multiple champions and a consistent list of elite fighters, while countries like Georgia are proving they can produce world-class, undefeated talent. At the same time, regions like Palestine, Armenia, UAE, France, and Kyrgyzstan have only a single fighter represented, showing there’s still so much untapped potential. With 60% of champions coming from outside the U.S., the UFC’s future lies in embracing these international markets and building the next generation of stars on a truly global stage.
+### Brazil dominance:  
+* 5 fighters (17% of dataset) with multiple champions (Alex Pereira, Alexandre Pantoja, Charles Oliveira)  
+### Emerging markets: 
+* Georgia has 2 fighters including #1 P4P Ilia Topuria (17-0 undefeated)  
+### Underrepresented regions: 
+* Only 1 fighter each from Palestine, Armenia, UAE, France, Kyrgyzstan - potential growth markets
+### Performance correlation: 
+* Non-US fighters hold 60% of championship positions in the dataset
+  
+The data tells an interesting story. The UFC isn’t an American powerhouse anymore, it’s truly global. Brazil continues its domination over the sport with multiple champions and a consistent list of elite fighters, while countries like Georgia are proving they can produce world-class, undefeated talent. At the same time, regions like Palestine, Armenia, UAE, France, and Kyrgyzstan have only a single fighter represented, showing there’s still so much untapped potential. With 60% of champions coming from outside the U.S., the UFC’s future lies in embracing these international markets and building the next generation of stars on a truly global stage.
 With the UFC’s new grappling competition, UFC BJJ, I’m confident we’ll see fresh talent emerging from countries with rich jiu-jitsu and wrestling traditions. This will likely open doors for fighters from regions that haven’t traditionally dominated the UFC spotlight, fueling the sport’s next big wave of international champions.
 
-- Brazil should remain a core investment market.
-- Georgia, with its rising undefeated talent, represents a high-potential growth opportunity.
-- Target investments in underrepresented regions such as France and the UAE. This could help tap into new fan bases and talent pools.
+* Brazil should remain a core investment market.
+* Georgia, with its rising undefeated talent, represents a high-potential growth opportunity.
+* Target investments in underrepresented regions such as France and the UAE. This could help tap into new fan bases and talent pools.
   
 ## References 
-- API: https://rapidapi.com/fluis.lacasse/api/MMAAPI
-- Wiki: Table https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship#Men's_pound-for-pound
+* API: https://rapidapi.com/fluis.lacasse/api/MMAAPI
+* Wiki: Table https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship#Men's_pound-for-pound
 
 
