@@ -1,5 +1,5 @@
-# **CIS 3120 - Project 2 Q1 Report**
-### Ruben Rodriguez, Musa Malik, Yuning Zhou 
+# **Course Project 2: UFC Global Insights**
+### Ruben Rodriguez
 
 ## Project Overview:
 Our primary goal was to create a DataFrame from a table on Wikipedia and combine it with an API of similar data to uncover business insights. 
